@@ -1,0 +1,27 @@
+body {
+    background-color: white;
+}
+.header {
+    background-color:gray;
+    color: white;
+    text-align: center;
+    padding: 1px 0;
+}
+.hero {
+    background-image: url('bg\ banner.jpg');
+    background-size: cover;
+    color: red;
+    text-align: center;
+    padding: 100px 0;
+}
+.section {
+    background-color: auto;
+    padding: 30px 0;
+}
+
+.footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
